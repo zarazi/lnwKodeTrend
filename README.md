@@ -10,7 +10,7 @@ First Wave of lnwKode Tools for Thai Developer
     </tr>
     <tr>
       <th>Base Version</th>
-      <td>v3.3.0</td>
+      <td>v3.4.0</td>
     </tr>
     <tr>
       <th>Meteor Version</th>
